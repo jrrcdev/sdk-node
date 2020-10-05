@@ -13,6 +13,8 @@ Given a version number MAJOR.MINOR.PATCH, increment:
 
 
 ## [Unreleased]
+### Added
+- TaxPayment object and function calls to allow payment of DAS, DARF and ISS taxes
 
 ## [2.1.0] - 2020-10-28
 ### Added
